@@ -83,7 +83,7 @@ export const Header:React.FC = () => {
                   viewBox="0 0 26 16"
                   fill="none"
                 >
-                  <g clip-path="url(#clip0_1_475)">
+                  <g clipPath="url(#clip0_1_475)">
                     <rect
                       x="1.19545"
                       y="1.09758"
@@ -92,7 +92,7 @@ export const Header:React.FC = () => {
                       rx="7.1316"
                       fill="#80CB17"
                       stroke="#80CB17"
-                      stroke-width="0.620139"
+                      strokeWidth="0.620139"
                     />
                     <circle
                       cx="18.2493"
@@ -100,7 +100,7 @@ export const Header:React.FC = () => {
                       r="7.1316"
                       fill="white"
                       stroke="#80CB17"
-                      stroke-width="0.620139"
+                      strokeWidth="0.620139"
                     />
                   </g>
                   <defs>

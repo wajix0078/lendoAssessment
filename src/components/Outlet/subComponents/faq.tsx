@@ -78,9 +78,9 @@ const Faq:React.FC = () => {
                     <path
                       d="M10.0708 4.04515L5.72983 8.38612L1.38886 4.04515"
                       stroke="#0D0F52"
-                      stroke-width="1.24028"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="1.24028"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                   </g>
                 </svg>
@@ -124,9 +124,9 @@ const Faq:React.FC = () => {
                     <path
                       d="M10.0708 4.04515L5.72983 8.38612L1.38886 4.04515"
                       stroke="#0D0F52"
-                      stroke-width="1.24028"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="1.24028"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                   </g>
                 </svg>
@@ -170,9 +170,9 @@ const Faq:React.FC = () => {
                     <path
                       d="M10.0708 4.04515L5.72983 8.38612L1.38886 4.04515"
                       stroke="#0D0F52"
-                      stroke-width="1.24028"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="1.24028"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                   </g>
                 </svg>

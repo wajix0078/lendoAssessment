@@ -79,20 +79,20 @@ export default function Main() {
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <path
-                  fill-rule="evenodd"
-                  clip-rule="evenodd"
+                  fillRule="evenodd"
+                  clipRule="evenodd"
                   d="M19.0882 1.4514C20.6419 3.00512 20.6419 5.52417 19.0881 7.07786L17.5189 8.64712C17.0345 9.13147 17.0345 9.91678 17.5189 10.4011L20.9926 13.8749C22.5463 15.4286 22.5463 17.9477 20.9926 19.5014C19.4389 21.0551 16.9198 21.0551 15.3661 19.5014L8.20214 12.3373C7.45602 11.5912 7.03686 10.5792 7.03687 9.52408C7.03687 8.46891 7.45604 7.45696 8.20216 6.71085L13.4617 1.45136C15.0154 -0.102333 17.5345 -0.102314 19.0882 1.4514Z"
                   fill="url(#paint0_radial_432_45)"
                 />
                 <path
-                  fill-rule="evenodd"
-                  clip-rule="evenodd"
+                  fillRule="evenodd"
+                  clipRule="evenodd"
                   d="M1.89523 8.3569C3.44891 6.80317 5.96794 6.80315 7.52164 8.35686L14.6856 15.5209C15.4318 16.267 15.8509 17.279 15.8509 18.3342C15.8509 19.3894 15.4317 20.4013 14.6856 21.1475L9.42605 26.407C7.87234 27.9607 5.35331 27.9606 3.79965 26.4069C2.24598 24.8531 2.24602 22.3341 3.79974 20.7804L5.36897 19.2112C5.85333 18.7268 5.85333 17.9415 5.36897 17.4571L1.89527 13.9834C0.341566 12.4297 0.34155 9.91062 1.89523 8.3569Z"
                   fill="#4BDFFF"
                 />
                 <path
-                  fill-rule="evenodd"
-                  clip-rule="evenodd"
+                  fillRule="evenodd"
+                  clipRule="evenodd"
                   d="M15.6023 19.7193C15.5214 19.6504 15.4427 19.5777 15.3663 19.5013L8.20226 12.3373C7.45614 11.5911 7.03698 10.5792 7.03699 9.52402C7.03699 9.04661 7.1228 8.57805 7.28588 8.13895C7.36671 8.20783 7.44545 8.28047 7.52184 8.35687L14.6859 15.5209C15.432 16.267 15.8511 17.279 15.8511 18.3342C15.8511 18.8116 15.7653 19.2802 15.6023 19.7193Z"
                   fill="#2D91FE"
                 />
@@ -105,8 +105,8 @@ export default function Main() {
                     gradientUnits="userSpaceOnUse"
                     gradientTransform="translate(16.0357 16.5101) rotate(-84.6107) scale(16.2961 102.046)"
                   >
-                    <stop stop-color="#2DADFE" />
-                    <stop offset="1" stop-color="#2D91FE" />
+                    <stop stopColor="#2DADFE" />
+                    <stop offset="1" stopColor="#2D91FE" />
                   </radialGradient>
                 </defs>
               </svg>
@@ -138,7 +138,7 @@ export default function Main() {
                   viewBox="0 0 109 91"
                   fill="none"
                 >
-                  <g clip-path="url(#clip0_1_544)">
+                  <g clipPath="url(#clip0_1_544)">
                     <mask
                       id="mask0_1_544"
                       style={{
@@ -188,50 +188,50 @@ export default function Main() {
                     <path
                       d="M97.1346 40.6762L94.592 43.2808L91.9874 40.6762L94.53 38.1336L97.1346 40.6762Z"
                       stroke="#9FA8ED"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M61.6636 0.987061V2.10331"
                       stroke="#9FA8ED"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M61.6636 4.83191V5.94816"
                       stroke="#9FA8ED"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M64.1441 3.46761H63.0279"
                       stroke="#9FA8ED"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M60.2993 3.46761H59.183"
                       stroke="#9FA8ED"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M27.6189 3.65414L29.1693 9.48345L33.4482 5.20449L27.6189 3.65414Z"
                       stroke="#9FA8ED"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M1.26303 38.0096L1.32504 34.9709L4.36373 34.9089V31.9322L7.40241 31.8702L7.46442 28.8315"
                       stroke="#9FA8ED"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M1.9442 65.7915C2.62918 65.7915 3.18447 65.2363 3.18447 64.5513C3.18447 63.8663 2.62918 63.311 1.9442 63.311C1.25921 63.311 0.703918 63.8663 0.703918 64.5513C0.703918 65.2363 1.25921 65.7915 1.9442 65.7915Z"
                       stroke="#9FA8ED"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M29.7271 17.1723C27.2466 15.6839 20.9832 17.9784 18.1925 21.3272C14.2857 25.9782 17.3243 33.4819 20.8591 34.1021C25.0141 34.8462 31.5255 26.5364 31.1534 20.1489C31.0914 18.9087 30.5953 17.6684 29.7271 17.1723Z"
@@ -369,16 +369,16 @@ export default function Main() {
                       d="M83.2444 15.3743H69.8494V27.8391H83.2444V15.3743Z"
                       fill="white"
                       stroke="#C7CDF9"
-                      stroke-width="0.620139"
-                      stroke-miterlimit="10"
+                      strokeWidth="0.620139"
+                      strokeMiterlimit="10"
                     />
                     <path
                       d="M74.0034 21.5134L75.9258 23.3738L79.6467 19.653"
                       stroke="#FF809F"
-                      stroke-width="1.24028"
-                      stroke-miterlimit="10"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="1.24028"
+                      strokeMiterlimit="10"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                   </g>
                   <defs>
@@ -390,8 +390,8 @@ export default function Main() {
                       y2="16.3732"
                       gradientUnits="userSpaceOnUse"
                     >
-                      <stop stop-color="#5E59A6" />
-                      <stop offset="1" stop-color="#40327A" />
+                      <stop stopColor="#5E59A6" />
+                      <stop offset="1" stopColor="#40327A" />
                     </linearGradient>
                     <linearGradient
                       id="paint1_linear_1_544"
@@ -401,8 +401,8 @@ export default function Main() {
                       y2="11.5126"
                       gradientUnits="userSpaceOnUse"
                     >
-                      <stop stop-color="#5E59A6" />
-                      <stop offset="1" stop-color="#40327A" />
+                      <stop stopColor="#5E59A6" />
+                      <stop offset="1" stopColor="#40327A" />
                     </linearGradient>
                     <linearGradient
                       id="paint2_linear_1_544"
@@ -412,8 +412,8 @@ export default function Main() {
                       y2="75.3694"
                       gradientUnits="userSpaceOnUse"
                     >
-                      <stop stop-color="#5E59A6" />
-                      <stop offset="1" stop-color="#40327A" />
+                      <stop stopColor="#5E59A6" />
+                      <stop offset="1" stopColor="#40327A" />
                     </linearGradient>
                     <linearGradient
                       id="paint3_linear_1_544"
@@ -423,8 +423,8 @@ export default function Main() {
                       y2="59.0336"
                       gradientUnits="userSpaceOnUse"
                     >
-                      <stop stop-color="#7C7CB5" />
-                      <stop offset="1" stop-color="#5E59A6" />
+                      <stop stopColor="#7C7CB5" />
+                      <stop offset="1" stopColor="#5E59A6" />
                     </linearGradient>
                     <linearGradient
                       id="paint4_linear_1_544"
@@ -434,8 +434,8 @@ export default function Main() {
                       y2="67.1694"
                       gradientUnits="userSpaceOnUse"
                     >
-                      <stop stop-color="#7C7CB5" />
-                      <stop offset="1" stop-color="#5E59A6" />
+                      <stop stopColor="#7C7CB5" />
+                      <stop offset="1" stopColor="#5E59A6" />
                     </linearGradient>
                     <linearGradient
                       id="paint5_linear_1_544"
@@ -445,8 +445,8 @@ export default function Main() {
                       y2="68.3746"
                       gradientUnits="userSpaceOnUse"
                     >
-                      <stop stop-color="#7C7CB5" />
-                      <stop offset="1" stop-color="#5E59A6" />
+                      <stop stopColor="#7C7CB5" />
+                      <stop offset="1" stopColor="#5E59A6" />
                     </linearGradient>
                     <clipPath id="clip0_1_544">
                       <rect
@@ -591,20 +591,20 @@ export default function Main() {
                       height="17.3639"
                       rx="0.620139"
                       stroke="#2D91FE"
-                      stroke-width="1.24028"
+                      strokeWidth="1.24028"
                     />
                     <path
                       d="M20.1535 9.37084L15.3962 5.14217C14.9263 4.72446 14.2181 4.72446 13.7482 5.14217L8.99097 9.37084"
                       stroke="#2D91FE"
-                      stroke-width="1.24028"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
+                      strokeWidth="1.24028"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
                     />
                     <path
                       d="M26.3549 15.5722H23.8743C23.1893 15.5722 22.634 16.1275 22.634 16.8125V19.2931C22.634 19.9781 23.1893 20.5333 23.8743 20.5333H26.3549"
                       stroke="#2D91FE"
-                      stroke-width="1.24028"
-                      stroke-linecap="round"
+                      strokeWidth="1.24028"
+                      strokeLinecap="round"
                     />
                   </svg>
                 </div>
@@ -693,9 +693,9 @@ export default function Main() {
                           <path
                             d="M4.60782 2.5528L7.08837 5.03335L4.60782 7.51391"
                             stroke="#0D0F52"
-                            stroke-width="1.24028"
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
+                            strokeWidth="1.24028"
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
                           />
                         </g>
                       </svg>
@@ -824,7 +824,7 @@ export default function Main() {
                       cy="6.31388"
                       r="5.58125"
                       stroke="#0D0F52"
-                      stroke-width="1.24028"
+                      strokeWidth="1.24028"
                     />
                     <rect
                       x="6.27045"
